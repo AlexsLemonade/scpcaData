@@ -1,0 +1,13 @@
+{
+	"n_targets": 0,
+	"n_bootstraps": 0,
+	"n_processed": 42854607,
+	"n_pseudoaligned": 30130790,
+	"n_unique": 12085443,
+	"p_pseudoaligned": 70.3,
+	"p_unique": 28.2,
+	"kallisto_version": "0.46.2",
+	"index_version": 0,
+	"start_time": "Tue Jul 13 18:57:59 2021",
+	"call": "kallisto bus -i spliced_txome_k31 -o Breast_Cancer_3p_LT-spliced_txome_k31/bus -x 10xv3 -t 8 Breast_Cancer_3p_LT_S3_L001_R1_001.fastq.gz Breast_Cancer_3p_LT_S3_L001_R2_001.fastq.gz Breast_Cancer_3p_LT_S3_L002_R1_001.fastq.gz Breast_Cancer_3p_LT_S3_L002_R2_001.fastq.gz Breast_Cancer_3p_LT_S3_L003_R1_001.fastq.gz Breast_Cancer_3p_LT_S3_L003_R2_001.fastq.gz Breast_Cancer_3p_LT_S3_L004_R1_001.fastq.gz Breast_Cancer_3p_LT_S3_L004_R2_001.fastq.gz"
+}
