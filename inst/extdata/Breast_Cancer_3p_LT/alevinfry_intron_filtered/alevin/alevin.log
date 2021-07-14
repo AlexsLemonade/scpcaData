@@ -1,0 +1,7 @@
+[2021-07-13 20:39:26.274] [alevinLog] [info] The --rad flag was passed to alevin. The reads will be selectively aligned and the output written to a RAD file.Arguments passed that correspond to other processing steps will be ignored
+[2021-07-13 20:39:26.274] [alevinLog] [info] The --sketch flag was passed; the alignment will be run in sketch mode.
+[2021-07-13 20:39:26.809] [alevinLog] [info] Found 621107 transcripts(+0 decoys, +39 short and +0 duplicate names in the index)
+[2021-07-13 20:39:27.246] [alevinLog] [info] Filled with 621146 txp to gene entries 
+[2021-07-13 20:39:27.376] [alevinLog] [info] Found all transcripts to gene mappings
+[2021-07-13 20:39:27.434] [alevinLog] [info] parsing read library format
+[2021-07-13 20:41:19.547] [alevinLog] [info] sc-align successful.
