@@ -1,3 +1,6 @@
+# Include log files in extdata
+!inst/extdata/**/*.log
+
 # History files
 .Rhistory
 .Rapp.history
