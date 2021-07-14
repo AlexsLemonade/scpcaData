@@ -1,0 +1,19 @@
+Package: scpcaData
+Title: Data Package for scpcaTools
+Version: 0.1.0
+Authors@R: c(
+    person("Ally", "Hawkins",
+           email = "ally.hawkins@ccdatalab.org",
+           comment = list(ORCID = "0000-0001-6026-3660"),
+           role = c("aut", "cre")),
+    person(c("Joshua", "A."), "Shapiro", 
+           email = "josh.shapiro@ccdatalab.org",
+           comment = list(ORCID = "0000-0002-6224-0347"),
+           role = c("aut"))
+    )
+Description: Data files to facilitate testing of scpcaTools.
+License: CC BY 4.0
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
