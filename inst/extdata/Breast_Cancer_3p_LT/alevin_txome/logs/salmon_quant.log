@@ -1,0 +1,22 @@
+[2021-07-21 09:12:06.149] [jointLog] [info] setting maxHashResizeThreads to 2
+[2021-07-21 09:12:06.149] [jointLog] [info] Fragment incompatibility prior below threshold.  Incompatible fragments will be ignored.
+[2021-07-21 09:12:06.149] [jointLog] [info] The --mimicBT2, --mimicStrictBT2 and --hardFilter flags imply mapping validation (--validateMappings). Enabling mapping validation.
+[2021-07-21 09:12:06.149] [jointLog] [info] Usage of --validateMappings implies use of minScoreFraction. Since not explicitly specified, it is being set to 0.65
+[2021-07-21 09:12:06.149] [jointLog] [info] The use of range-factorized equivalence classes does not make sense in conjunction with --hardFilter.  Disabling range-factorized equivalence classes. 
+[2021-07-21 09:12:06.149] [jointLog] [info] Setting consensusSlack to selective-alignment default of 0.35.
+[2021-07-21 09:12:06.149] [jointLog] [info] Using default value of 0.87 for minScoreFraction in Alevin
+Using default value of 0.6 for consensusSlack in Alevin
+[2021-07-21 09:12:28.498] [jointLog] [info] There is 1 library.
+[2021-07-21 09:12:28.593] [jointLog] [info] Loading pufferfish index
+[2021-07-21 09:12:28.593] [jointLog] [info] Loading dense pufferfish index.
+[2021-07-21 09:12:30.742] [jointLog] [info] done
+[2021-07-21 09:12:30.742] [jointLog] [info] Index contained 233,699 targets
+[2021-07-21 09:12:30.867] [jointLog] [info] Number of decoys : 0
+[2021-07-21 09:20:54.267] [jointLog] [info] Computed 122,194 rich equivalence classes for further processing
+[2021-07-21 09:20:54.268] [jointLog] [info] Counted 6,657,706 total reads in the equivalence classes 
+[2021-07-21 09:20:54.268] [jointLog] [info] Number of fragments discarded because they are best-mapped to decoys : 0
+[2021-07-21 09:20:54.268] [jointLog] [warning] Found 393 reads with `N` in the UMI sequence and ignored the reads.
+Please report on github if this number is too large
+[2021-07-21 09:20:54.268] [jointLog] [info] Mapping rate = 62.1823%
+
+[2021-07-21 09:20:54.268] [jointLog] [info] finished quantifyLibrary()
