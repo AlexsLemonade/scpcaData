@@ -1,0 +1,12 @@
+{
+    "salmon_version": "1.5.1",
+    "libType": "ISR",
+    "chromiumV3": [],
+    "mates1": "Breast_Cancer_3p_LT/Breast_Cancer_3p_LT_S3_L001_R1_001.fastq.gz",
+    "mates2": "Breast_Cancer_3p_LT/Breast_Cancer_3p_LT_S3_L001_R2_001.fastq.gz",
+    "index": "spliced_txome_k31",
+    "tgMap": "annotation/Homo_sapiens.GRCh38.103.spliced.tx2gene.tsv",
+    "output": "test_alevin",
+    "threads": "2",
+    "auxDir": "aux_info"
+}
