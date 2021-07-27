@@ -1,0 +1,10 @@
+{
+  "alt_resolved_cell_numbers": [],
+  "cmd": "alevin-fry quant --input-dir Breast_Cancer_3p_LT-spliced_intron_txome_k31-sketch-full-knee --tg-map Homo_sapiens.GRCh38.103.spliced_intron.tx2gene.tsv --output-dir Breast_Cancer_3p_LT-spliced_intron_txome_k31-sketch-full-knee -r full -t 8",
+  "dump_eq": false,
+  "num_genes": 98054,
+  "num_quantified_cells": 614,
+  "resolution_strategy": "Full",
+  "usa_mode": false,
+  "version_str": "0.4.1"
+}
