@@ -1,22 +1,22 @@
-[2021-07-13 19:24:18.993] [jointLog] [info] setting maxHashResizeThreads to 8
-[2021-07-13 19:24:18.993] [jointLog] [info] Fragment incompatibility prior below threshold.  Incompatible fragments will be ignored.
-[2021-07-13 19:24:18.993] [jointLog] [info] The --mimicBT2, --mimicStrictBT2 and --hardFilter flags imply mapping validation (--validateMappings). Enabling mapping validation.
-[2021-07-13 19:24:18.993] [jointLog] [info] Usage of --validateMappings implies use of minScoreFraction. Since not explicitly specified, it is being set to 0.65
-[2021-07-13 19:24:18.993] [jointLog] [info] The use of range-factorized equivalence classes does not make sense in conjunction with --hardFilter.  Disabling range-factorized equivalence classes. 
-[2021-07-13 19:24:18.993] [jointLog] [info] Setting consensusSlack to selective-alignment default of 0.35.
-[2021-07-13 19:24:18.993] [jointLog] [info] Using default value of 0.87 for minScoreFraction in Alevin
+[2021-07-23 14:35:50.293] [jointLog] [info] setting maxHashResizeThreads to 8
+[2021-07-23 14:35:50.293] [jointLog] [info] Fragment incompatibility prior below threshold.  Incompatible fragments will be ignored.
+[2021-07-23 14:35:50.293] [jointLog] [info] The --mimicBT2, --mimicStrictBT2 and --hardFilter flags imply mapping validation (--validateMappings). Enabling mapping validation.
+[2021-07-23 14:35:50.293] [jointLog] [info] Usage of --validateMappings implies use of minScoreFraction. Since not explicitly specified, it is being set to 0.65
+[2021-07-23 14:35:50.293] [jointLog] [info] The use of range-factorized equivalence classes does not make sense in conjunction with --hardFilter.  Disabling range-factorized equivalence classes. 
+[2021-07-23 14:35:50.293] [jointLog] [info] Setting consensusSlack to selective-alignment default of 0.35.
+[2021-07-23 14:35:50.293] [jointLog] [info] Using default value of 0.87 for minScoreFraction in Alevin
 Using default value of 0.6 for consensusSlack in Alevin
-[2021-07-13 19:24:20.098] [jointLog] [info] There is 1 library.
-[2021-07-13 19:24:20.194] [jointLog] [info] Loading pufferfish index
-[2021-07-13 19:24:20.194] [jointLog] [info] Loading dense pufferfish index.
-[2021-07-13 19:24:50.630] [jointLog] [info] done
-[2021-07-13 19:24:50.630] [jointLog] [info] Index contained 621146 targets
-[2021-07-13 19:24:50.864] [jointLog] [info] Number of decoys : 0
-[2021-07-13 19:26:10.657] [jointLog] [info] Number uniquely mapped : 12762841
-[2021-07-13 19:26:10.679] [jointLog] [info] Computed 0 rich equivalence classes for further processing
-[2021-07-13 19:26:10.679] [jointLog] [info] Counted 0 total reads in the equivalence classes 
-[2021-07-13 19:26:10.679] [jointLog] [info] Selectively-aligned 39012555 total fragments out of 42854607
-[2021-07-13 19:26:10.679] [jointLog] [info] Number of fragments discarded because they are best-mapped to decoys : 0
-[2021-07-13 19:26:10.679] [jointLog] [warning] Found 1917 reads with `N` in the UMI sequence and ignored the reads.
+[2021-07-23 14:35:50.293] [jointLog] [info] There is 1 library.
+[2021-07-23 14:35:50.392] [jointLog] [info] Loading pufferfish index
+[2021-07-23 14:35:50.392] [jointLog] [info] Loading dense pufferfish index.
+[2021-07-23 14:36:21.714] [jointLog] [info] done
+[2021-07-23 14:36:21.714] [jointLog] [info] Index contained 621146 targets
+[2021-07-23 14:36:21.912] [jointLog] [info] Number of decoys : 0
+[2021-07-23 14:37:48.905] [jointLog] [info] Number uniquely mapped : 12711707
+[2021-07-23 14:37:48.927] [jointLog] [info] Computed 0 rich equivalence classes for further processing
+[2021-07-23 14:37:48.927] [jointLog] [info] Counted 0 total reads in the equivalence classes 
+[2021-07-23 14:37:48.927] [jointLog] [info] Selectively-aligned 39231756 total fragments out of 42854607
+[2021-07-23 14:37:48.927] [jointLog] [info] Number of fragments discarded because they are best-mapped to decoys : 0
+[2021-07-23 14:37:48.927] [jointLog] [warning] Found 1917 reads with `N` in the UMI sequence and ignored the reads.
 Please report on github if this number is too large
-[2021-07-13 19:26:10.679] [jointLog] [info] finished sc_align()
+[2021-07-23 14:37:48.927] [jointLog] [info] finished sc_align()

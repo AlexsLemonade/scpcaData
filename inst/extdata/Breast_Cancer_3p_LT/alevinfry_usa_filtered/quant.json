@@ -1,0 +1,10 @@
+{
+  "alt_resolved_cell_numbers": [],
+  "cmd": "alevin-fry quant --input-dir Breast_Cancer_3p_LT-spliced_intron_txome_k31-sketch-cr-like-knee --tg-map Homo_sapiens.GRCh38.103.spliced_intron.tx2gene_3col.tsv --output-dir Breast_Cancer_3p_LT-spliced_intron_txome_k31-sketch-cr-like-knee -r cr-like -t 8 --use-mtx",
+  "dump_eq": false,
+  "num_genes": 180963,
+  "num_quantified_cells": 614,
+  "resolution_strategy": "CellRangerLike",
+  "usa_mode": true,
+  "version_str": "0.4.1"
+}
