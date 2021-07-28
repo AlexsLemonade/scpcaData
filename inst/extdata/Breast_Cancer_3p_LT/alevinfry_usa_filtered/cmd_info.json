@@ -1,4 +1,23 @@
 {
-  "auxDir": "aux_info",
-  "salmon_version": "1.4.0"
+    "salmon_version:": "1.5.2",
+    "libType": "ISR",
+    "chromiumV3": [],
+    "mates1": [
+        "Breast_Cancer_3p_LT_S3_L001_R1_001.fastq.gz",
+        "Breast_Cancer_3p_LT_S3_L002_R1_001.fastq.gz",
+        "Breast_Cancer_3p_LT_S3_L003_R1_001.fastq.gz",
+        "Breast_Cancer_3p_LT_S3_L004_R1_001.fastq.gz"
+    ],
+    "mates2": [
+        "Breast_Cancer_3p_LT_S3_L001_R2_001.fastq.gz",
+        "Breast_Cancer_3p_LT_S3_L002_R2_001.fastq.gz",
+        "Breast_Cancer_3p_LT_S3_L003_R2_001.fastq.gz",
+        "Breast_Cancer_3p_LT_S3_L004_R2_001.fastq.gz"
+    ],
+    "index": "spliced_intron_txome_k31",
+    "output": "Breast_Cancer_3p_LT-spliced_intron_txome_k31-sketch-cr-like-knee",
+    "threads": "8",
+    "dumpFeatures": [],
+    "rad": [],
+    "sketch": []
 }

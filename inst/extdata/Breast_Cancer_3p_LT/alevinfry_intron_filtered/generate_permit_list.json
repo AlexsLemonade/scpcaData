@@ -1,6 +1,8 @@
 {
+  "cmd": "alevin-fry generate-permit-list -i Breast_Cancer_3p_LT-spliced_intron_txome_k31-sketch-full-knee --expected-ori fw -o Breast_Cancer_3p_LT-spliced_intron_txome_k31-sketch-full-knee --knee-distance",
   "expected_ori": "+",
+  "max-ambig-record": 2468,
   "permit-list-type": "filtered",
   "velo_mode": false,
-  "version_str": "0.3.0"
+  "version_str": "0.4.1"
 }

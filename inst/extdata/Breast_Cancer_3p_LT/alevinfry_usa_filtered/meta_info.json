@@ -1,8 +1,0 @@
-{
-  "alt_resolved_cell_numbers": [],
-  "dump_eq": false,
-  "num_genes": 180963,
-  "num_quantified_cells": 614,
-  "resolution_strategy": "CellRangerLike",
-  "usa_mode": true
-}
